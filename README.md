@@ -2,38 +2,35 @@
 
 ### When the Marginalised Take Centre Stage at Notting Hill
 
-#### An essay on joy, resistance, and the fleeting politics of being seen.
+---
+
+by Peter Kahl, 2025-08-26; v2: 2025-10-25
+
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17444159-blue.svg)](https://doi.org/10.5281/zenodo.17444159) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/The-Carnival-of-the-Invisible/blob/main/carnival.jpg?raw=true)
 
-by Peter Kahl, 26 August 2025
+## Abstract
 
----
+This reflective essay explores the _Notting Hill Carnival_ as a living expression of epistemic justice and political aesthetics. Drawing on personal observation and philosophical analysis, it examines how Carnival transforms Britain’s social margins into its centre, granting visibility and voice to those historically unseen. The essay traces the event’s roots in post-war resistance, its inversion of racial and gender hierarchies, and its contemporary tensions between celebration and commodification. Integrating insights from Fricker, Fanon, Rancière, and Kahl (2025), it argues that Carnival enacts a fiduciary form of recognition—a collective moment of trust, dignity, and belonging. Through feathers, music, and movement, the streets become a stage for democracy itself: loud, plural, and imperfect, yet profoundly alive.
 
-### Abstract
+## Keywords
 
-This essay reflects on my first experience of the Notting Hill Carnival, attended on Monday 25 August. What struck me was not merely the spectacle of feathers, music, and crowds, but the deeper significance: Carnival allows those who are usually invisible in Britain—black and brown communities, women, the marginalised—to take centre stage, if only briefly. Through its history of resistance, its inversion of racial and gender hierarchies, and its joyous assertion of belonging, Carnival demonstrates how visibility itself becomes political. It is a moment sanctioned by the state yet claimed by the community, where the margins become the centre, and where an alternative vision of Britain—plural, imperfect, but alive—can be glimpsed.
+Notting Hill Carnival, race, visibility, epistemic justice, fiduciary openness, epistemic clientelism, political aesthetics, diaspora, belonging, cultural recognition, Fricker, Fanon, Rancière, Kahl, feminism, liberation, hybridity, multicultural Britain, democratic trust, embodiment, performance
 
-### Keywords
+## Download
 
-Notting Hill Carnival, race, visibility, marginalisation, identity, resistance, belonging, Britain, multiculturalism, diaspora, epistemic justice, political aesthetics, Claudia Jones, Windrush generation, Frantz Fanon, Jacques Rancière, Victor Turner, gender, feminism, liberation, plurality, hybridity, monoculture, equality, celebration
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Carnival-of-the-Invisible/master/Kahl_P_The_Carnival_of_the_Invisible_v2_2025-10-25.pdf)
 
----
+## Cite this work
 
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+Kahl, P. (2025). _The carnival of the invisible: When the marginalised take centre stage at Notting Hill_. Lex et Ratio Ltd. https://doi.org/10.5281/zenodo.17444159
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/The-Carnival-of-the-Invisible/master/Kahl_P_The_Carnival_of_the_Invisible_26-AUG-2025.pdf)
+## Publisher & Licence
 
-### Cite this work:
+v1 published in Great Britain by Lex et Ratio Ltd, 2025-08-26.\
+v2 published in Great Britain by Lex et Ratio Ltd, 2025-10-25.
 
-```
-Peter Kahl, The Carnival of the Invisible: When the Marginalised Take Centre Stage at Notting Hill (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/The-Carnival-of-the-Invisible>
-```
-
-### Publisher & Licence
-
-First published in Great Britain by Lex et Ratio Ltd on 26 August 2025.
-
-© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
-
-You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
+You may share this work for non-commercial purposes with attribution and without modification.\
+Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
