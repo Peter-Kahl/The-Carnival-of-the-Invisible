@@ -20,7 +20,7 @@ Notting Hill Carnival, race, visibility, epistemic justice, fiduciary openness, 
 
 ## Download
 
-- [Dowload version 2](https://raw.githubusercontent.com/Peter-Kahl/The-Carnival-of-the-Invisible/master/Kahl_P_The_Carnival_of_the_Invisible_v2_2025-10-25.pdf) ✅ _latest-
+- [Dowload version 2](https://raw.githubusercontent.com/Peter-Kahl/The-Carnival-of-the-Invisible/master/Kahl_P_The_Carnival_of_the_Invisible_v2_2025-10-25.pdf) ✅ _latest_
 - [Dowload version 1](https://raw.githubusercontent.com/Peter-Kahl/The-Carnival-of-the-Invisible/master/Kahl_P_The_Carnival_of_the_Invisible_26-AUG-2025.pdf)
 
 ## Cite this work
